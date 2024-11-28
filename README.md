@@ -1,29 +1,40 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
+<h1 align="center">Olá! Eu sou <a href="https://github.com/DouglasTeyh">Douglas Teyh<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=douglasteyh&show_icons=true&title_color=ff0059&text_color=ededed&icon_color=ff0059&bg_color=14151c&cache_seconds=2300" alt="ilustração do status do github">
 
 
-### Olá, meu nome é Douglas Teyh!
-
 <img src="https://img.shields.io/static/v1?label=VERIFIED&message=Douglas Teyh&color=ededed&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Estou formando em Análise e Desenvolvimento de Sistemas<br/> Eu sou desenvolvedor Front-end</p>
-
-## Minhas Skills
-
-**Aplicações e dados**
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+💻 Desenvolvedor Front-End criativo e apaixonado.  
+📚 Sempre buscando aprender e evoluir.  
+🛠️ Experiência com React, JavaScript e APIs.  
+🌟 Foco em interfaces responsivas e dinâmicas.  
+🚩 Pronto para colaborar em projetos inovadores.  
+😃 Vamos criar soluções incríveis juntos!  
   
-  ##
- 
+
+
+
+<h1>Minhas Skills</h1>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+
+
+# Contate-me
 <div> 
   <a href="https://instagram.com/douglasteyh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato.douglasteyh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jos%C3%A9-douglas-b25051314" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
