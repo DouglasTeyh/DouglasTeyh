@@ -5,7 +5,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=douglasteyh&show_icons=true&title_color=ff0059&text_color=ededed&icon_color=ff0059&bg_color=14151c&cache_seconds=2300" alt="ilustração do status do github">
 
 
-<img src="https://img.shields.io/static/v1?label=VERIFIED&message=Douglas Teyh&color=ededed&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=VERIFIED&message=DouglasTeyh&color=ededed&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 💻 Desenvolvedor Front-End criativo e apaixonado.  
 📚 Sempre buscando aprender e evoluir.  
