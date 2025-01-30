@@ -9,7 +9,7 @@
 
 💻 Desenvolvedor Front-End criativo e apaixonado.  
 📚 Sempre buscando aprender e evoluir.  
-🛠️ Experiência com Python, Java, Flask, HMTL3 e CSS5.  
+🛠️ Experiência com Python, Java, Javascript, Flask, HMTL e CSS.  
 🌟 Foco em interfaces responsivas e dinâmicas.  
 🚩 Pronto para colaborar em projetos inovadores.  
 😃 Vamos criar soluções incríveis juntos!  
