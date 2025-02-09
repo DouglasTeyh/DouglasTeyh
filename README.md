@@ -1,7 +1,5 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
-<h1 align="center">Olá! Eu sou <a href="https://github.com/DouglasTeyh">Douglas Teyh!</a></h1>
+<h1 align="left">Olá! Eu sou <a href="https://github.com/DouglasTeyh">Douglas Teyh!</a></h1>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=douglasteyh&show_icons=true&title_color=ff0059&text_color=ededed&icon_color=ff0059&bg_color=14151c&cache_seconds=2300" alt="ilustração do status do github">
 
 
