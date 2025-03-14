@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&letterSpacing=-50&duration=3000&pause=1000&color=F7F7F7&center=true&width=455&lines=Hi!+My+name+is+Douglas+Teyh!;I'm+a+FullStack+Developer!%E2%9A%A1;I'm+passionate+about+Frontend;But+I'm+also+curious+about+the+backend;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=douglasteyh&show_icons=true&title_color=ff0059&text_color=ededed&icon_color=ff0059&bg_color=14151c&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=douglasteyh&show_icons=true&title_color=ff0059&text_color=ededed&icon_color=ff0059&bg_color=14151c&cache_seconds=2" alt="ilustração do status do github">
 
 
 <img src="https://img.shields.io/static/v1?label=VERIFIED&message=DouglasTeyh&color=ededed&style=for-the-badge&logo=GitHub" alt="Static GitHub">
