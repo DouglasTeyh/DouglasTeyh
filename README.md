@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&letterSpacing=-1&duration=3000&pause=1000&color=FF0059&center=true&vCenter=true&width=600&height=50&lines=Olá!+Me+chamo+José+Douglas+(DouglasTeyh);Sou+Desenvolvedor+FullStack+⚡;Bem-vindo+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&letterSpacing=-1&duration=3000&pause=1000&color=FF0059&center=true&vCenter=true&width=700&height=50&lines=Olá!+Eu+sou+José+Douglas+(DouglasTeyh);Desenvolvedor+FullStack+e+Pesquisador+Científico;Bem-vindo+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
 
 <img align="right" height="170" src="https://github-readme-stats.vercel.app/api?username=douglasteyh&show_icons=true&title_color=ff0059&text_color=ededed&icon_color=ff0059&bg_color=14151c&cache_seconds=1800" alt="Status do GitHub de DouglasTeyh">
 
@@ -6,7 +6,8 @@
 
 ## 👨‍💻 Sobre mim
 
-💻 Desenvolvedor Front-End criativo e apaixonado  
+💻 Desenvolvedor FullStack criativo e apaixonado  
+🔬 Pesquisador Científico nas áreas de **Machine Learning** e **Internet das Coisas (IoT)** aplicadas à **Saúde**  
 📚 Sempre em busca de evolução constante  
 🛠️ Experiência com **Python**, **Java**, **JavaScript**, **Flask**, **HTML**, **CSS**  
 🌟 Foco em **interfaces responsivas**, **animações suaves** e **design inteligente**  
@@ -27,7 +28,6 @@
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
 
-
 ## 🌱 Atividade
 
 <picture align="center">
@@ -35,7 +35,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DouglasTeyh/DouglasTeyh/output/github-contribution-grid-snake.svg">
   <img align="center" alt="Animação do Snake de contribuições" src="https://raw.githubusercontent.com/DouglasTeyh/DouglasTeyh/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 
 ## 📬 Contato
@@ -51,6 +50,5 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
