@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&letterSpacing=-1&duration=2000&pause=1000&color=FF0059&center=true&vCenter=true&width=700&height=50&lines=Olá!+Eu+sou+José+Douglas+(DouglasTeyh);Desenvolvedor+FullStack+e+Pesquisador+Científico;Bem-vindo+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
-
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasteyh&show_icons=true&title_color=ff0059&text_color=ededed&icon_color=ff0059&bg_color=14151c&cache_seconds=2&include_all_commits=true&count_private=true" alt="Status do GitHub de DouglasTeyh">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&letterSpacing=-1&duration=2000&pause=1000&color=F0F0F0&center=True&vCenter=true&width=700&height=50&lines=Olá!+Eu+sou+José+Douglas+(DouglasTeyh);Desenvolvedor+FullStack+e+Pesquisador+Científico;Bem-vindo+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/static/v1?label=VERIFIED&message=DouglasTeyh&color=ededed&style=for-the-badge&logo=GitHub" alt="Perfil Verificado">
 
 <h2> 👨‍💻 Sobre mim </h2>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=DouglasTeyh&theme=dark&hide_border=True&include_all_commits=true" alt="Github Stats"/>
+      
 💻 Desenvolvedor FullStack criativo e apaixonado  
 🔬 Pesquisador Científico nas áreas de **Machine Learning** e **Internet das Coisas (IoT)** aplicadas à **Saúde**  
 📚 Sempre em busca de evolução constante  
@@ -15,6 +15,7 @@
 😄 Vamos criar **soluções incríveis** juntos!
 
 
+      
 ## 🧠 Minhas Skills
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
