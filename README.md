@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/static/v1?label=VERIFIED&message=DouglasTeyh&color=ededed&style=for-the-badge&logo=GitHub" alt="Perfil Verificado"> </div>
 
 ## 👨‍💻 Sobre mim
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DouglasTeyh&theme=dark&hide_border=true&include_all_commits=true" alt="Github Stats" width="400"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=DouglasTeyh&theme=dark&hide_border=true" alt="Github Stats" width="400"/>
 
 - 💻 Desenvolvedor FullStack criativo e apaixonado
 - 🔬 Pesquisador Científico nas áreas de Machine Learning e Internet das Coisas (IoT) aplicadas à Saúde
