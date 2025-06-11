@@ -1,7 +1,7 @@
 <div align="left">
 
 <img src="https://img.shields.io/static/v1?label=VERIFIED&message=DouglasTeyh&color=ededed&style=for-the-badge&logo=GitHub" alt="Perfil Verificado"> </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100%&letterSpacing=-1&duration=2000&pause=1000&color=F0F0F0&center=True&vCenter=false&width=700&height=50&lines=Olá!+Eu+sou+José+Douglas+(Douglas+Teyh);Desenvolvedor+FullStack+e+Pesquisador+Científico;Bem-vindo+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100%&letterSpacing=-1&duration=2000&pause=1000&color=F0F0F0&center=True&vCenter=false&width=700&height=80&lines=Olá!+Eu+sou+José+Douglas+(Douglas+Teyh);Desenvolvedor+FullStack+e+Pesquisador+Científico;Bem-vindo+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
 
 ## 👨‍💻 Sobre mim
 
@@ -27,6 +27,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
