@@ -64,6 +64,8 @@
 
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglasTeyh/DouglasTeyh/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DouglasTeyh/DouglasTeyh/output/github-contribution-grid-snake.svg"> <img alt="Animação do Snake de contribuições" src="https://raw.githubusercontent.com/DouglasTeyh/DouglasTeyh/output/github-contribution-grid-snake.svg"> </picture> </div>
 
+<!--   profile-green-animate -->
+
 ## 📬 Contato
 <div align="left"> <a href="https://instagram.com/douglasteyh" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="mailto:contato.douglasteyh@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/douglasteyh" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </div>
 <div align="center"> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> </div>
