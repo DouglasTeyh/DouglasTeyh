@@ -1,12 +1,7 @@
-<div align="center">
-      
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&letterSpacing=-1&duration=2000&pause=1000&color=F0F0F0&center=True&vCenter=true&width=700&height=50&lines=Olá!+Eu+sou+José+Douglas+(DouglasTeyh);Desenvolvedor+FullStack+e+Pesquisador+Científico;Bem-vindo+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
-      
-</div>
-
 <div align="left">
 
 <img src="https://img.shields.io/static/v1?label=VERIFIED&message=DouglasTeyh&color=ededed&style=for-the-badge&logo=GitHub" alt="Perfil Verificado"> </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100%&letterSpacing=-1&duration=2000&pause=1000&color=F0F0F0&center=True&vCenter=false&width=700&height=50&lines=Olá!+Eu+sou+José+Douglas+(Douglas+Teyh);Desenvolvedor+FullStack+e+Pesquisador+Científico;Bem-vindo+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
 
 ## 👨‍💻 Sobre mim
 
