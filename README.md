@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/static/v1?label=VERIFIED&message=DouglasTeyh&color=ededed&style=for-the-badge&logo=GitHub" alt="Perfil Verificado"> </div>
 
 ## 👨‍💻 Sobre mim
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DouglasTeyh&theme=dark&hide_border=true" alt="Github Stats" width="400"/>
 
 - 💻 Desenvolvedor FullStack criativo e apaixonado
 - 🔬 Pesquisador Científico nas áreas de Machine Learning e Internet das Coisas (IoT) aplicadas à Saúde
@@ -54,7 +53,15 @@
       
 </div>
 
-## 🌱 Atividade
+## 🌱 Infos e Atividade:
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DouglasTeyh&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Douglas Teyh github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasTeyh&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DouglasTeyh&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglasTeyh/DouglasTeyh/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DouglasTeyh/DouglasTeyh/output/github-contribution-grid-snake.svg"> <img alt="Animação do Snake de contribuições" src="https://raw.githubusercontent.com/DouglasTeyh/DouglasTeyh/output/github-contribution-grid-snake.svg"> </picture> </div>
 
 ## 📬 Contato
