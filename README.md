@@ -1,11 +1,15 @@
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=680&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Douglas+Teyh!;Sou+Desenvolvedor+FullStack+e+Pesquisador+Cient%C3%ADfico;Seja+Bem-Vindo(a)+ao+meu+perfil+do+GITHUB)](https://git.io/typing-svg)
+</div>
+
 <div align="left">
+<img src="https://img.shields.io/static/v1?label=VERIFIED&message=DouglasTeyh&color=ededed&style=for-the-badge&logo=GitHub" alt="Perfil Verificado"> 
+</div>
 
-
-<img src="https://img.shields.io/static/v1?label=VERIFIED&message=DouglasTeyh&color=ededed&style=for-the-badge&logo=GitHub" alt="Perfil Verificado"> </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100%&letterSpacing=-1&duration=2000&pause=1000&color=F0F0F0&center=True&vCenter=false&width=700&height=80&lines=Olá!+Eu+sou+José+Douglas+(Douglas+Teyh);Desenvolvedor+FullStack+e+Pesquisador+Científico;Bem-vindo+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
-
+<div align="left">
+  
 ## 👨‍💻 Sobre mim
-
 - 💻 Desenvolvedor FullStack criativo e apaixonado
 - 🔬 Pesquisador Científico nas áreas de Machine Learning e Internet das Coisas (IoT) aplicadas à Saúde
 - 📚 Sempre em busca de evolução constante
@@ -19,9 +23,9 @@
     alt="Portfólio de Douglas Teyh">
   </a>
 </div>
+</div>
 
 ## 💻 Informações:
-
 <div align="center">  
   <img width="auto" height="195px" src="https://github-readme-stats.vercel.app/api?username=DouglasTeyh&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Douglas Teyh github stats" /> 
   <img width="auto" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasTeyh&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
@@ -29,7 +33,7 @@
 
 ## 🧠 Minhas Skills
 <div align="center">
-      
+  
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -61,7 +65,6 @@
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-      
 </div>
 
 ## 🌱 Atividade:
