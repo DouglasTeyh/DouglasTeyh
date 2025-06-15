@@ -1,11 +1,5 @@
 <div align="left">
-<div align="center">
-  <a href="https://portifoliodouglasteyh.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20Acessar%20Portfólio-%23ffffff?style=for-the-badge" 
-    style="background: linear-gradient(to right, #8e2de2, #c12374); color: white; border-radius: 8px; padding: 10px 20px; text-decoration: none; font-weight: bold;" 
-    alt="Portfólio de Douglas Teyh">
-  </a>
-</div>
+
 
 <img src="https://img.shields.io/static/v1?label=VERIFIED&message=DouglasTeyh&color=ededed&style=for-the-badge&logo=GitHub" alt="Perfil Verificado"> </div>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100%&letterSpacing=-1&duration=2000&pause=1000&color=F0F0F0&center=True&vCenter=false&width=700&height=80&lines=Olá!+Eu+sou+José+Douglas+(Douglas+Teyh);Desenvolvedor+FullStack+e+Pesquisador+Científico;Bem-vindo+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
@@ -18,6 +12,13 @@
 - 🛠️ Experiência com Python, Java, JavaScript, Flask, HTML, CSS e outros.
 - 🌟 Foco em interfaces responsivas, animações suaves e design inteligente
 - 🚩 Pronto para colaborar em projetos inovadores
+<div align="left">
+  <a href="https://portifoliodouglasteyh.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20Acessar%20Portfólio-%23ffffff?style=for-the-badge" 
+    style="background: linear-gradient(to right, #8e2de2, #c12374); color: white; border-radius: 8px; padding: 10px 20px; text-decoration: none; font-weight: bold;" 
+    alt="Portfólio de Douglas Teyh">
+  </a>
+</div>
 
 ## 💻 Informações:
 
