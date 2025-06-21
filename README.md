@@ -16,13 +16,12 @@
 - 🛠️ Experiência com Python, Java, JavaScript, Flask, HTML, CSS e outros.
 - 🌟 Foco em interfaces responsivas, animações suaves e design inteligente
 - 🚩 Pronto para colaborar em projetos inovadores
+
+## 📬 Contato
 <div align="left">
-  <a href="https://portifoliodouglasteyh.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20Acessar%20Portfólio-%23ffffff?style=for-the-badge" 
-    style="background: linear-gradient(to right, #8e2de2, #c12374); color: white; border-radius: 8px; padding: 10px 20px; text-decoration: none; font-weight: bold;" 
-    alt="Portfólio de Douglas Teyh">
-  </a>
-</div>
+  <div><a href="https://portifoliodouglasteyh.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🔗%20Acessar%20Portfólio-%23ffffff?style=for-the-badge" style="background: linear-gradient(to right, #8e2de2, #c12374); color: white; border-radius: 8px; padding: 10px 20px; text-decoration: none; font-weight: bold;" alt="Portfólio de Douglas Teyh"></a></div><a href="https://instagram.com/douglasteyh" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="mailto:contato.douglasteyh@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/douglasteyh" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </div>
+<div align="center"> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> </div>
+
 </div>
 
 ## 💻 Informações:
@@ -72,9 +71,3 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DouglasTeyh&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglasTeyh/DouglasTeyh/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DouglasTeyh/DouglasTeyh/output/github-contribution-grid-snake.svg"> <img alt="Animação do Snake de contribuições" src="https://raw.githubusercontent.com/DouglasTeyh/DouglasTeyh/output/github-contribution-grid-snake.svg"> </picture> </div>
-
-<!--   profile-green-animate -->
-
-## 📬 Contato
-<div align="left"> <a href="https://instagram.com/douglasteyh" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="mailto:contato.douglasteyh@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/douglasteyh" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </div>
-<div align="center"> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> </div>
