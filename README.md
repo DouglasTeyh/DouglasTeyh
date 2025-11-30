@@ -10,7 +10,11 @@
 <div align="left">
 <details>
 <summary>
+  <strong>
+    <u>
 👨‍💻 Sobre mim
+  </u>
+    </strong>
 </summary>
 
 - 💻 Desenvolvedor FullStack criativo e apaixonado
