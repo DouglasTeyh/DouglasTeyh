@@ -4,22 +4,29 @@
 </div>
 
 <div align="left">
-<img src="https://img.shields.io/static/v1?label=VERIFIED&message=DouglasTeyh&color=ededed&style=for-the-badge&logo=GitHub" alt="Perfil Verificado"> 
+<img src="https://img.shields.io/static/v1?label=DOUGLAS&message=Tranquilino&color=ededed&style=for-the-badge&logo=GitHub" alt="Perfil Verificado"> 
 </div>
 
 <div align="left">
-  
-## 👨‍💻 Sobre mim
+<details>
+<summary>
+👨‍💻 Sobre mim
+</summary>
+
 - 💻 Desenvolvedor FullStack criativo e apaixonado
 - 🔬 Pesquisador Científico nas áreas de Machine Learning e Internet das Coisas (IoT) aplicadas à Saúde
 - 📚 Sempre em busca de evolução constante
 - 🛠️ Experiência com Python, Java, JavaScript, Flask, HTML, CSS e outros.
 - 🌟 Foco em interfaces responsivas, animações suaves e design inteligente
 - 🚩 Pronto para colaborar em projetos inovadores
+</details>
 
 ## 📬 Contato
 <div align="left">
-  <div><a href="https://portifoliodouglasteyh.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🔗%20Acessar%20Portfólio-%23ffffff?style=for-the-badge" style="background: linear-gradient(to right, #8e2de2, #c12374); color: white; border-radius: 8px; padding: 10px 20px; text-decoration: none; font-weight: bold;" alt="Portfólio de Douglas Teyh"></a></div><a href="https://instagram.com/douglasteyh" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="mailto:contato.douglasteyh@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/douglasteyh" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </div>
+  <a href="https://portifoliodouglasteyh.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🔗%20Acessar%20Portfólio-%23ffffff?style=for-the-badge" style="background: linear-gradient(to right, #8e2de2, #c12374); color: white; border-radius: 8px; padding: 10px 20px; text-decoration: none; font-weight: bold;" alt="Portfólio de Douglas Teyh"></a>
+  <a href="https://instagram.com/douglasteyh" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:contato.douglasteyh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/douglasteyh" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </div>
 <div align="center"> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> </div>
 
 </div>
